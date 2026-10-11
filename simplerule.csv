@@ -1,0 +1,12 @@
+record_type,month,email,plan,is_admin,coach,preset,take_home_usd,needs_pct,wants_pct,save_pct,needs_cap_usd,wants_cap_usd,save_cap_usd,needs_spent_usd,wants_spent_usd,save_spent_usd,referral_code,id,date,merchant,amount_usd,bucket,note,label,examples
+profile,,t.turner_87@yahoo.com,paid,true,Sage,50-30-20,0,50,30,20,,,,,,,r9m3536r,,,,,,owner account; take-home not set; ledger empty,,
+budget,2026-10,t.turner_87@yahoo.com,,,,50-30-20,0,50,30,20,0,0,0,0,0,0,,,,,,,,,
+category,,,,,,,,,,,,,,,,,,,,,,need,,Needs,"rent, mortgage, groceries, utilities, gas, internet, cell, insurance, transit, minimum debt"
+category,,,,,,,,,,,,,,,,,,,,,,want,,Wants,"dining, shopping, travel, hobbies, entertainment, extra subscriptions"
+category,,,,,,,,,,,,,,,,,,,,,,save,,Savings,"3-month cushion first, then extra debt payoff or investing"
+account,,,,,,,,,,,,,,,,,,,,,,,none stored in SimpleRule,,
+balance,,,,,,,,,,,,,,,,,,,,,,,none stored in SimpleRule,,
+bill,,,,,,,,,,,,,,,,,,,,,,,none stored in SimpleRule,,
+debt,,,,,,,,,,,,,,,,,,,,,,,none stored in SimpleRule,,
+goal,,,,,,,,,,,,,,,,,,,,,,,none stored in SimpleRule,,
+transaction,,,,,,,,,,,,,,,,,,,,,,,none stored in SimpleRule,,
